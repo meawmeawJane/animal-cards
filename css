@@ -1,0 +1,39 @@
+/* add your CSS here */
+div.tradingcard {
+    width: 310px;
+    border: 1px solid #F5F5DC;
+    box-shadow: 6px 6px 1px 0px #EBEBEB;
+    padding-right: .2em;
+    padding-left: .7em;
+    padding-bottom: .6em;
+}
+
+.infobox {
+    width: 283px;
+    border: 1px solid #F5F5DC;
+}
+
+.animalpicture {
+    width: 300px;
+    height: 200px;
+    padding-bottom: .8em;
+}
+
+.funfact {
+    font-style: italic;
+}
+
+img {
+    width: 300px;
+
+}
+
+.list-info {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+span {
+    font-weight: bold;
+}
